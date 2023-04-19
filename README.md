@@ -12,4 +12,4 @@
 Локально подключены шрифты "INTER".
 
 ### Сылка на проект в Github
-https://github.com/romaka4/travle-project.git
+https://romaka4.github.io/russian-travel/index.html
